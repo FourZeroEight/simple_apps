@@ -1,7 +1,7 @@
 from faker import Faker
 import pandas as pd
 import random
-fake = Faker()
+fake = Faker('zh_TW')  # 'en_US', 'zh_TW'
 def create_rows(num=1):
     output = [{"name":fake.name(),
                "address":fake.address(),
@@ -10,7 +10,7 @@ def create_rows(num=1):
                "bs":fake.bs(),
                "address":fake.address(),
                "city":fake.city(),
-               "state":fake.state(),
+               # "state":fake.state(),
                "date_time":fake.date_time(),
                "paragraph":fake.paragraph(),
                "Conrad":fake.catch_phrase(),
