@@ -7,7 +7,7 @@ parser.addadd_argument('--data', default=None)
 args = parser.parse_args()
 
 name = args.name
-if args.daa is None:
+if args.data is None:
     pass
-else
+else:
     data = args.data
