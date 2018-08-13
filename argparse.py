@@ -2,8 +2,8 @@ from argparse import ArgumentParser
 
 
 parser = ArgumentParser()
-parser.addadd_argument('--name', default='xxx')
-parser.addadd_argument('--data', default=None)
+parser.add_argument('--name', default='xxx')
+parser.add_argument('--data', default=None)
 args = parser.parse_args()
 
 name = args.name
