@@ -2,7 +2,7 @@
 
 1. fake_dataframe.ipynb 
 
-    Create a fake user-profiles.
+    Create fake user-profiles.
 
 2. nlp_preprocess.py 
 
