@@ -14,4 +14,4 @@
     
 4. glygj.ipynb
 
-    Sort the best combat orders in daily mission of [game](http://glygj.szckhd.com) 
+    Sort the best combat orders in daily mission of [game] (http://glygj.szckhd.com) 
