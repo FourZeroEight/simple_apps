@@ -1,8 +1,8 @@
 # simple_apps
 
-1. fake_dataframe.ipynb 
+1. datagen.py 
 
-    Create fake user-profiles.
+    Generate fake user-profiles.
 
 2. nlp_preprocess.py 
 
