@@ -1,0 +1,60 @@
+targetPower: 200110
+     lowest_waste: (('王羲之',), 750794, 550684)
+     remain: 33
+targetPower: 450310
+     lowest_waste: (('鄭板橋',), 1476909, 1026599)
+     remain: 32
+targetPower: 800680
+     lowest_waste: (('紀昀',), 1772192, 971512)
+     remain: 31
+targetPower: 1251300
+     lowest_waste: (('歐陽修',), 2954001, 1702701)
+     remain: 30
+targetPower: 1801800
+     lowest_waste: (('趙高',), 4010605, 2208805)
+     remain: 29
+targetPower: 2452500
+     lowest_waste: (('張衡',), 8033527, 5581027)
+     remain: 28
+targetPower: 3203900
+     lowest_waste: (('花木蘭',), 8051581, 4847681)
+     remain: 27
+targetPower: 4055700
+     lowest_waste: (('范文程',), 9036449, 4980749)
+     remain: 26
+targetPower: 5008000
+     lowest_waste: (('李衛',), 10041909, 5033909)
+     remain: 25
+targetPower: 6616990
+     lowest_waste: (('索尼',), 10041909, 3424919)
+     remain: 24
+targetPower: 8426000
+     lowest_waste: (('劉墉',), 10042215, 1616215)
+     remain: 23
+targetPower: 11238000
+     lowest_waste: (('曹雪芹',), 12050533, 812533)
+     remain: 22
+targetPower: 20000000
+     lowest_waste: (('蕭劍',), 20115500, 115500)
+     remain: 21
+targetPower: 50000000
+     lowest_waste: (('李白', '陳近南', '東方朔'), 50237321, 237321)
+     remain: 18
+targetPower: 100000000
+     lowest_waste: (('李廣', '林則徐', '華安'), 101632798, 1632798)
+     remain: 15
+targetPower: 200000000
+     lowest_waste: (('魏忠賢', '魏徵', '干將', '納蘭明珠', '年羹堯', '洪承疇'), 201579125, 1579125)
+     remain: 9
+targetPower: 400000000
+     lowest_waste: (('高長恭', '梁紅玉'), 477700000, 77700000)
+     remain: 7
+targetPower: 600000000
+     lowest_waste: (('高漸離',), 1400400000, 800400000)
+     remain: 6
+targetPower: 800000000
+done
+
+
+remain: {'樊梨花': 486900000, '蘇軾': 12052709, '胡雪巖': 0, '周培公': 0, '蘇秦': 0, '張廷玉': 0}
+remainPower: 498952709
