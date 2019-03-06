@@ -41,20 +41,23 @@ targetPower: 50000000
      lowest_waste: (('李白', '陳近南', '東方朔'), 50237321, 237321)
      remain: 18
 targetPower: 100000000
-     lowest_waste: (('李廣', '林則徐', '華安'), 101632798, 1632798)
+     lowest_waste: (('李廣', '林則徐', '華安'), 101644998, 1644998)
      remain: 15
 targetPower: 200000000
      lowest_waste: (('魏忠賢', '魏徵', '干將', '納蘭明珠', '年羹堯', '洪承疇'), 201579125, 1579125)
      remain: 9
 targetPower: 400000000
-     lowest_waste: (('高長恭', '梁紅玉'), 477700000, 77700000)
-     remain: 7
+     lowest_waste: (('樊梨花',), 491900000, 91900000)
+     remain: 8
 targetPower: 600000000
-     lowest_waste: (('高漸離',), 1400400000, 800400000)
+     lowest_waste: (('梁紅玉', '高長恭'), 655900000, 55900000)
      remain: 6
 targetPower: 800000000
+     lowest_waste: (('高漸離',), 1418100000, 618100000)
+     remain: 5
+targetPower: 1000000000
 done
 
 
-remain: {'樊梨花': 486900000, '蘇軾': 12052709, '胡雪巖': 0, '周培公': 0, '蘇秦': 0, '張廷玉': 0}
-remainPower: 498952709
+remain: {'蘇軾': 12052709, '胡雪巖': 0, '周培公': 0, '蘇秦': 0, '張廷玉': 0}
+remainPower: 12052709
